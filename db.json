@@ -1,0 +1,16 @@
+{
+  "Users": [
+    {
+      "fname": "John Cena",
+      "email": "johncena@gmail.com",
+      "pass": "john@1234",
+      "id": 1
+    },
+    {
+      "fname": "Roman Reigns",
+      "email": "tribalcheif@gmail.com",
+      "pass": "roman@1234",
+      "id": 2
+    }
+  ]
+}
